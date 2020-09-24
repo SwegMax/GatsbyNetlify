@@ -1,0 +1,2 @@
+# GatsbyNetlify
+JAMstack
